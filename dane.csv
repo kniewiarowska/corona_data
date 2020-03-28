@@ -1,61 +1,60 @@
-Country,Tests,Date
-Armenia,813,03/18/20
-Australia,113615,03/19/20
-Austria,15613,03/20/20
-Bahrain,18645,03/21/20
-Belgium,18360,03/23/20
-Brazil,2927,03/24/20
-Colombia,4103,03/25/20
-Costa Rica,1039,03/26/20
-Croatia,1264,03/27/20
-Czech Republic,11619,03/28/20
-Denmark,10730,03/29/20
-Faeroe Islands,1641,03/30/20
-Estonia,2504,03/31/20
-Finland,3000,04/01/20
-France,36747,04/02/20
-Germany,167000,04/03/20
-Hong Kong,5271,04/04/20
-Hungary,3007,04/05/20
-Iceland,9189,04/06/20
-India,14514,04/07/20
-Indonesia,2028,04/08/20
-Iran,80000,04/09/20
-Ireland,6600,04/10/20
-Israel,10864,04/11/20
-Italy,206886,04/12/20
-Japan,14901,04/13/20
-Kyrgyzstan,1545,04/14/20
-Latvia,3205,04/15/20
-Lithuania,1154,04/16/20
-Malaysia,13876,04/17/20
-Malta,889,04/18/20
-Mexico,278,04/19/20
-Netherlands,6,04/20/20
-New Zealand,584,04/21/20
-Norway,43735,04/22/20
-Pakistan,1979,04/23/20
-Palestine,2519,04/24/20
-Panama,1455,04/25/20
-Philippines,1269,04/26/20
-Poland,13072,04/27/20
-Qatar,8400,04/28/20
-Romania,8284,04/29/20
-Russia,143519,04/30/20
-Slovakia,2707,05/01/20
-Slovenia,9860,05/02/20
-South Africa,6438,05/03/20
-South Korea,316664,05/04/20
-Spain,30000,05/05/20
-Sweden,14300,05/06/20
-Switzerland,4,05/07/20
-Taiwan,21376,05/08/20
-Thailand,7084,05/09/20
-Turkey,2900,05/10/20
-Ukraine,316,05/11/20
-United Arab Emirates,125,05/12/20
-United Kingdom,64621,05/13/20
-United States – CDC samples tested,37646,05/14/20
-United States,103945,05/15/20
-Vietnam,15637,05/16/20
-
+Country or territory,Total tests,Date
+Armenia,813,3/18/20
+Australia,113615,3/20/20
+Austria,15613,3/20/20
+Bahrain,18645,3/20/20
+Belarus,16000,3/16/20
+Belgium,18360,3/18/20
+Brazil,2927,3/13/20
+Colombia,4103,3/20/20
+Costa Rica,1039,3/19/20
+Croatia,1264,3/19/20
+Czech Republic,11619,3/20/20
+Denmark,10730,3/20/20
+Faeroe Islands,1641,3/20/20
+Estonia,2504,3/20/20
+Finland,3000,3/19/20
+France,36747,3/15/20
+Germany,167000,3/15/20
+Hong Kong,5271,3/5/20
+Hungary,3007,3/20/20
+Iceland,9189,3/20/20
+India,14514,3/20/20
+Indonesia,2028,3/20/20
+Iran,80000,3/14/20
+Ireland,6600,3/17/20
+Israel,10864,3/18/20
+Italy,206886,3/20/20
+Japan,14901,3/19/20
+Kyrgyzstan,1545,3/13/20
+Latvia,3205,3/20/20
+Lithuania,1154,3/20/20
+Malaysia,13876,3/20/20
+Malta,889,3/13/20
+Mexico,278,3/10/20
+Netherlands,6,3/7/20
+New Zealand,584,3/17/20
+Norway,43735,3/20/20
+Pakistan,1979,3/19/20
+Palestine,2519,3/16/20
+Panama,1455,3/18/20
+Philippines,1269,3/20/20
+Poland,13072,3/20/20
+Qatar,8400,3/17/20
+Romania,8284,3/20/20
+Russia,143519,3/19/20
+Slovakia,2707,3/20/20
+Slovenia,9860,3/19/20
+South Africa,6438,3/20/20
+South Korea,316664,3/20/20
+Spain,30000,3/18/20
+Sweden,14300,3/17/20
+Switzerland,4,3/7/20
+Taiwan,21376,3/20/20
+Thailand,7084,3/17/20
+Turkey,2900,3/10/20
+Ukraine,316,3/20/20
+United Arab Emirates,125,3/16/20
+United Kingdom,64621,3/19/20
+United States,103,945,3/19/20
+Vietnam,15637,3/20/20
